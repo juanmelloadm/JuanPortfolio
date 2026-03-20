@@ -159,7 +159,7 @@ export default function PortfolioSite() {
               </div>
 
               <div className="mt-6 rounded-2xl border border-emerald-400/20 bg-emerald-400/10 p-5">
-                <p className="text-emerald-300 font-semibold">Próximo passo ideal</p>
+                <p className="text-emerald-300 font-semibold">MEUS PROJETOS</p>
                 <p className="mt-2 text-slate-200 leading-7">
                   Por favor aguarde as próximas atualizações...
                 </p>
