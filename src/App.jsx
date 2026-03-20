@@ -44,8 +44,8 @@ export default function PortfolioSite() {
               Profissional em transição para a área de TI com base em redes, infraestrutura e segurança.
             </h2>
             <p className="mt-5 text-slate-300 text-lg leading-8">
-              Estudante de Sistemas de Informação e Segurança da Informação, com experiência em rotinas administrativas,
-              suporte em informática e contato com clientes e órgãos públicos. Busco oportunidade de entrada em TI,
+              Estudante de Sistemas de Informação e Segurança da Informação, 
+              suporte em informática. Busco oportunidade de entrada em TI,
               especialmente em suporte, infraestrutura e áreas correlatas.
             </p>
 
@@ -161,7 +161,7 @@ export default function PortfolioSite() {
               <div className="mt-6 rounded-2xl border border-emerald-400/20 bg-emerald-400/10 p-5">
                 <p className="text-emerald-300 font-semibold">Próximo passo ideal</p>
                 <p className="mt-2 text-slate-200 leading-7">
-                  Adicionar projetos práticos em suporte, redes e Python para fortalecer ainda mais sua entrada no mercado de TI.
+                  Por favor aguarde as próximas atualizações...
                 </p>
               </div>
             </div>
