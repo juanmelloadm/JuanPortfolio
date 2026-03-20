@@ -70,7 +70,7 @@ export default function PortfolioSite() {
                 <div className="-mt-12 flex justify-center pb-4">
                   <div className="h-40 w-40 rounded-full border-4 border-slate-900 shadow-2xl overflow-hidden">
                     <img
-                      src="/foto.jpeg"
+                      src="/foto.jpg"
                       alt="Foto de Juan Pablo"
                       className="h-full w-full object-cover object-top"
                     />
