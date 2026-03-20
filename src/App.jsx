@@ -81,7 +81,7 @@ export default function PortfolioSite() {
               <div className="mt-4 grid grid-cols-2 gap-3 text-sm">
                 <div className="rounded-2xl bg-slate-900 p-4 border border-white/10">
                   <p className="text-slate-400">Foco</p>
-                  <p className="mt-1 font-semibold">Entrada em TI</p>
+                  <p className="mt-1 font-semibold">Infraestrutura em TI</p>
                 </div>
                 <div className="rounded-2xl bg-slate-900 p-4 border border-white/10">
                   <p className="text-slate-400">Perfil</p>
