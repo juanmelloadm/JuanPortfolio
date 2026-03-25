@@ -22,7 +22,7 @@ export default function PortfolioSite() {
           <div>
             <h1 className="text-2xl md:text-3xl font-bold tracking-tight">Juan Pablo Corrêa de Mello</h1>
             <p className="text-cyan-300 text-sm md:text-base mt-1 font-medium">
-              Suporte Técnico • Redes • Segurança da Informação • Em transição para TI
+              Suporte Técnico • Redes • Segurança da Informação • 
             </p>
           </div>
           <a
@@ -44,9 +44,8 @@ export default function PortfolioSite() {
               Profissional em transição para a área de TI com base em redes, infraestrutura e segurança.
             </h2>
             <p className="mt-5 text-slate-300 text-lg leading-8">
-              Estudante de Sistemas de Informação e Segurança da Informação, 
-              suporte em informática. Busco oportunidade de entrada em TI,
-              especialmente em suporte, infraestrutura e áreas correlatas.
+              Estudante de Sistemas de Informação e Segurança da Informação.
+            
             </p>
 
             <div className="mt-8 flex flex-wrap gap-3">
@@ -81,11 +80,11 @@ export default function PortfolioSite() {
               <div className="mt-4 grid grid-cols-2 gap-3 text-sm">
                 <div className="rounded-2xl bg-slate-900 p-4 border border-white/10">
                   <p className="text-slate-400">Foco</p>
-                  <p className="mt-1 font-semibold">Infraestrutura em TI</p>
+                  <p className="mt-1 font-semibold">Infraestrutura em TI, Redes, Suporte.</p>
                 </div>
                 <div className="rounded-2xl bg-slate-900 p-4 border border-white/10">
                   <p className="text-slate-400">Perfil</p>
-                  <p className="mt-1 font-semibold">Júnior em potencial</p>
+                  <p className="mt-1 font-semibold">Júnior</p>
                 </div>
               </div>
             </div>
@@ -119,7 +118,6 @@ export default function PortfolioSite() {
                 <li>• Redes e conceitos básicos</li>
                 <li>• Rotinas administrativas</li>
                 <li>• Pacote Office</li>
-                <li>• Lançamentos fiscais</li>
                 <li>• Comunicação com clientes</li>
                 <li>• Organização e responsabilidade</li>
               </ul>

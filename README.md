@@ -84,7 +84,7 @@ Esse projeto foi fundamental para consolidar conhecimentos como:
 
 ## 🌐 Acesso ao projeto
 
-👉 (https://meu-portifolio1-juanmelloadms-projects.vercel.app/)
+👉 (https://meu-portifolio1-juanmelloadms-projects.vercel.app)
 
 ---
 
