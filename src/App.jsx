@@ -41,10 +41,13 @@ export default function PortfolioSite() {
               Suporte • Redes • Segurança da Informação
             </p>
             <h2 className="mt-5 text-4xl md:text-5xl font-bold leading-tight">
-              Profissional em transição para a área de TI com base em redes, infraestrutura e segurança.
+              Profissional em desenvolvimento. 
+              Estudante de Sistemas de Informação e Segurança da Informação
             </h2>
             <p className="mt-5 text-slate-300 text-lg leading-8">
-              Estudante de Sistemas de Informação e Segurança da Informação.
+              Estudante de Sistemas de Informação e Segurança da Informação, 
+              suporte em informática. Busco oportunidade de entrada em TI, 
+              especialmente em suporte, infraestrutura e áreas correlatas.
             
             </p>
 
